@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/bobilev/setmap/util"
+	"github.com/bobilev/Intersection/util"
 )
 
 func main() {
